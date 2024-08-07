@@ -1,0 +1,16 @@
+/* Shared styles */
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Styles for the first button */
+.boton1 {
+    background-color: black;
+    color: white;
+}
+
+/* Styles for the second button */
+.boton2 {
+    background-color: yellow;
+}
